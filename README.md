@@ -52,6 +52,13 @@ Google Sheets Secrets provides an end-to-end encrypted secret storage flow insid
 
 ## UI
 
+### ➕ Add Entry
+
+https://github.com/user-attachments/assets/9096b9f9-3106-4fc6-b75f-1456abba13c8
+
+### 🔓 Decrypt Selected Row
+
+https://github.com/user-attachments/assets/eddfeccf-8e57-41a5-b4d8-b909327422c5
 
 
 <a id="quick-start"></a>
