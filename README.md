@@ -8,7 +8,7 @@ A client-side, zero-knowledge encryption workflow for storing secrets in Google 
   <p style="font-size:4rem">🔐</p>
   <h1 style="font-size:2.5rem;margin:0.3em 0;">Google Sheets Secrets</h1>
   <p style="margin:0.5em 0 1em;">Client-side AES-256-GCM encryption - Google Servers never see your plaintext secrets.</p>
-  <p><a href="#table-of-contents">Jump to table of contents</a> · <a href="#installation">Get started quickly</a></p>
+  <p><a href="#table-of-contents">Jump to table of contents</a> · <a href="#quick-start">Get started quickly</a></p>
 </div>
 
 
@@ -141,7 +141,6 @@ https://github.com/user-attachments/assets/eddfeccf-8e57-41a5-b4d8-b909327422c5
 
 - Fork the repository and create feature branches
 - Open a pull request with a clear description
-- Follow project conventions and add tests/documentation as needed
 
 
 <a id="license"></a>
@@ -162,5 +161,5 @@ https://github.com/wteuber/google-sheets-secrets
 
 ## Acknowledgments
 
-- Thanks to the open-source community for templates and best practices
-- Credit to any libraries or inspirations used
+- Thanks to the open-source community for templates and best practices.
+- Thanks to coding LLMs that helped accelerate the development of this project.
